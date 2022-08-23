@@ -8,6 +8,7 @@ export const colors = {
     100: '#FAFAFA',
     200: '#F1F1F1',
     300: '#E1E1E1',
+    400: '#e7eaef',
   },
   yellow: {
     100: '#FFCF55',
@@ -23,5 +24,6 @@ export const colors = {
   },
   blue: {
     100: '#87ceeb',
+    200: '#1E90FF',
   },
 };

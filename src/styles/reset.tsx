@@ -137,4 +137,8 @@ export const reset = css`
     padding: 0;
     cursor: pointer;
   }
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
 `;

@@ -27,14 +27,14 @@ const calendarBoardStyle = css`
     "article main"
   `};
 
-  article {
+  & > article {
     grid-area: article;
     border-right: 1px solid ${colors.gray[200]};
   }
-  header {
+  & > header {
     grid-area: header;
   }
-  main {
+  & > main {
     grid-area: main;
   }
 `;
